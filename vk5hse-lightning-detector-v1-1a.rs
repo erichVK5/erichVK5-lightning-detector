@@ -1671,7 +1671,7 @@ ha:cschem-sheet-v1 {
 			}
 			ha:group.339 {
 				uuid=7HExLmGwXQJn4R7fC3YAAAOj; src_uuid=7HExLmGwXQJn4R7fC3YAAAGS;
-				x=-1102000; y=-987000;
+				x=-1101000; y=-987000;
 				li:objects {
 					ha:group.1 {
 						uuid=7HExLmGwXQJn4R7fC3YAAAOk; src_uuid=7HExLmGwXQJn4R7fC3YAAAGT;
@@ -4281,12 +4281,6 @@ ha:cschem-sheet-v1 {
 					/2/278/4/1
 				}
 			}
-			ha:connection.759 {
-				li:conn {
-					/2/339/2/1
-					/2/274/2
-				}
-			}
 			ha:connection.760 {
 				li:conn {
 					/2/342/2/1
@@ -4863,13 +4857,25 @@ ha:cschem-sheet-v1 {
 					/2/262/1/1
 				}
 			}
+			ha:connection.862 {
+				li:conn {
+					/2/339/1/1
+					/2/858/7
+				}
+			}
+			ha:connection.863 {
+				li:conn {
+					/2/339/2/1
+					/2/274/2
+				}
+			}
 		}
 	}
   li:sch-rnd-conf-v1 {
    ha:overwrite {
     ha:editor {
-     grids_idx = -1
-     grid = 0.01 mil
+     grids_idx = 0
+     grid = 1.0240 mm
     }
    }
   }
