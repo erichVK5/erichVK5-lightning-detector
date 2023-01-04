@@ -21,6 +21,7 @@ This repository includes the PCB layout file in pcb-rnd format (.rp), as well as
 
 Builders can decide how many stages of the detector they wish to build.
 
+Gerbers are in the zip files, and can be ordered from the usual online suppliers. Gerbers can be viewed in the camv-rnd gerber/CAM file viewer (see www.repo.hu/projects/camv-rnd), another part of the free and open source Ringdove electonic design suite.
 
 # Bill of materials
 
